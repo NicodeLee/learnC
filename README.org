@@ -1,0 +1,13 @@
+*C语言程序设计学习
+
+基于https://book.douban.com/subject/1139336/ 这本书的学习
+
+相关资源
+ 1）https://github.com/thvdburgt/KnR-The-C-Programming-Language-Solutions
+ 2) https://github.com/ptdecker/cbasics/tree/master/data
+
+
+尽量自己敲，效率低或者出错误对比下源码，可适度复制提高效率。
+理解是第一位
+
+目前环境是 mac+emacs，先不要IDE
